@@ -211,10 +211,6 @@ pip-log.txt
 #Translations
 *.mo
 
-#Mr Developer
+#Developer
 .mr.developer.cfg
-target/classes/META-INF/MANIFEST.MF
-target/classes/META-INF/maven/com.bvulaj/httpclient-maven-plugin/pom.properties
-target/classes/META-INF/maven/com.bvulaj/httpclient-maven-plugin/pom.xml
-target/classes/com/bvulaj/maven/plugins/httpclient/HttpClientMojo$1.class
-target/classes/com/bvulaj/maven/plugins/httpclient/HttpClientMojo.class
+target/*
